@@ -1,0 +1,41 @@
+# ========== C/C++ 编译生成文件 ==========
+*.exe
+*.out
+*.o
+*.obj
+*.s
+*.i
+*.asm
+*.ilk
+*.pdb
+*.map
+*.res
+
+# ========== Visual Studio 缓存 ==========
+.vs/
+*.suo
+*.vsidx
+*.vcxproj.user
+*.vcxproj.filters
+*.log
+
+# ========== VS Code ==========
+.vscode/
+*.code-workspace
+
+# ========== CLion / CMake ==========
+.idea/
+cmake-build-*/
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt.user
+*.cmake
+
+# ========== Dev-C++ / 小熊猫C++ ==========
+*.layout
+*.cbl
+
+# ========== 系统垃圾文件 ==========
+Thumbs.db
+.DS_Store
+desktop.ini
